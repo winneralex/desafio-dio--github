@@ -1,2 +1,2 @@
 # desafio-dio--github
-Desafio de sobre Git/GitHub
+Desafio sobre Git/GitHub
